@@ -1,0 +1,46 @@
+INFO 2013-01-06 17:46:51,545 org.apache.http.impl.client.DefaultHttpClient 723 I/O exception (java.net.SocketException) caught when processing request: Connection reset
+INFO 2013-01-06 17:46:51,549 org.apache.http.impl.client.DefaultHttpClient 730 Retrying request
+INFO 2013-01-06 17:46:51,620 org.apache.http.impl.client.DefaultHttpClient 723 I/O exception (java.net.SocketException) caught when processing request: Connection reset
+INFO 2013-01-06 17:46:51,620 org.apache.http.impl.client.DefaultHttpClient 730 Retrying request
+INFO 2013-01-06 17:46:51,690 org.apache.http.impl.client.DefaultHttpClient 723 I/O exception (java.net.SocketException) caught when processing request: Connection reset
+INFO 2013-01-06 17:46:51,691 org.apache.http.impl.client.DefaultHttpClient 730 Retrying request
+INFO 2013-01-06 17:46:51,747 org.apache.http.impl.client.DefaultHttpClient 723 I/O exception (java.net.SocketException) caught when processing request: Connection reset
+INFO 2013-01-06 17:46:51,747 org.apache.http.impl.client.DefaultHttpClient 730 Retrying request
+ERROR 2013-01-06 17:46:51,764 com.eliot.softpedia.Http 65 url:http://www.softpedia.com/get/Authoring-tools/ message:Connection reset
+INFO 2013-01-06 17:46:51,764 com.eliot.softpedia.ExecuteWorker 38 will retry later url:http://www.softpedia.com/get/Authoring-tools/
+INFO 2013-01-06 17:46:52,058 org.apache.http.impl.client.DefaultHttpClient 723 I/O exception (java.net.SocketException) caught when processing request: Connection reset
+INFO 2013-01-06 17:46:52,058 org.apache.http.impl.client.DefaultHttpClient 730 Retrying request
+INFO 2013-01-06 17:46:53,600 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/Antivirus/
+INFO 2013-01-06 17:46:53,711 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/PORTABLE-SOFTWARE/
+INFO 2013-01-06 17:46:54,150 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/Multimedia/
+INFO 2013-01-06 17:46:55,415 org.apache.http.impl.client.DefaultHttpClient 723 I/O exception (java.net.SocketException) caught when processing request: Connection reset
+INFO 2013-01-06 17:46:55,417 org.apache.http.impl.client.DefaultHttpClient 730 Retrying request
+INFO 2013-01-06 17:46:58,352 com.eliot.softpedia.ExecuteWorker 40 ok:http://games.softpedia.com/get/Cheat-Solutions/
+ERROR 2013-01-06 17:46:59,130 com.eliot.softpedia.Http 65 url:http://games.softpedia.com/get/Maps/ message:Connection to http://89.248.189.83:8080 refused
+INFO 2013-01-06 17:46:59,131 com.eliot.softpedia.ExecuteWorker 38 will retry later url:http://games.softpedia.com/get/Maps/
+INFO 2013-01-06 17:46:59,176 org.apache.http.impl.client.DefaultHttpClient 723 I/O exception (java.net.SocketException) caught when processing request: Connection reset
+INFO 2013-01-06 17:46:59,176 org.apache.http.impl.client.DefaultHttpClient 730 Retrying request
+INFO 2013-01-06 17:46:59,254 com.eliot.softpedia.ExecuteWorker 40 ok:http://games.softpedia.com/get/Mods-Addons/
+INFO 2013-01-06 17:47:00,362 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/Desktop-Enhancements/
+INFO 2013-01-06 17:47:00,975 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/System/
+INFO 2013-01-06 17:47:02,299 com.eliot.softpedia.ExecuteWorker 40 ok:http://games.softpedia.com/get/Shareware-Games/
+INFO 2013-01-06 17:47:02,335 com.eliot.softpedia.ExecuteWorker 40 ok:http://games.softpedia.com/get/Patch/
+INFO 2013-01-06 17:47:03,315 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/Compression-tools/
+INFO 2013-01-06 17:47:04,234 com.eliot.softpedia.ExecuteWorker 40 ok:http://games.softpedia.com/get/Games-Demo/
+INFO 2013-01-06 17:47:04,495 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/Science-CAD/
+INFO 2013-01-06 17:47:06,957 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/Security/
+INFO 2013-01-06 17:47:08,325 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/IPOD-TOOLS/
+INFO 2013-01-06 17:47:10,772 com.eliot.softpedia.ExecuteWorker 40 ok:http://games.softpedia.com/get/Emu/
+ERROR 2013-01-06 17:47:12,430 com.eliot.softpedia.Http 65 url:http://win.softpedia.com/ message:Connection to http://190.66.13.170:3128 refused
+INFO 2013-01-06 17:47:12,430 com.eliot.softpedia.ExecuteWorker 38 will retry later url:http://win.softpedia.com/
+ERROR 2013-01-06 17:47:12,438 com.eliot.softpedia.Http 65 url:http://www.softpedia.com/get/Internet/ message:Connection to http://119.97.147.207:3129 refused
+INFO 2013-01-06 17:47:12,439 com.eliot.softpedia.ExecuteWorker 38 will retry later url:http://www.softpedia.com/get/Internet/
+INFO 2013-01-06 17:47:12,814 com.eliot.softpedia.ExecuteWorker 40 ok:http://drivers.softpedia.com/get/BIOS/
+INFO 2013-01-06 17:47:14,174 com.eliot.softpedia.ExecuteWorker 40 ok:http://drivers.softpedia.com/get/HDD-SSD-NAS-USB-Flash/
+INFO 2013-01-06 17:47:16,727 com.eliot.softpedia.ExecuteWorker 40 ok:http://linux.softpedia.com/
+ERROR 2013-01-06 17:47:21,504 com.eliot.softpedia.Http 65 url:http://games.softpedia.com/get/SERVER/ message:Connection to http://186.219.25.227:3128 refused
+INFO 2013-01-06 17:47:21,504 com.eliot.softpedia.ExecuteWorker 38 will retry later url:http://games.softpedia.com/get/SERVER/
+INFO 2013-01-06 17:47:23,949 com.eliot.softpedia.ExecuteWorker 40 ok:http://drivers.softpedia.com/get/DVD-BluRay-Media-Players/
+INFO 2013-01-06 17:47:23,984 com.eliot.softpedia.ExecuteWorker 40 ok:http://www.softpedia.com/get/Programming/
+INFO 2013-01-06 17:47:26,676 com.eliot.softpedia.ExecuteWorker 40 ok:http://drivers.softpedia.com/get/MOBILES/
+INFO 2013-01-06 17:47:28,744 com.eliot.softpedia.ExecuteWorker 40 ok:http://drivers.softpedia.com/get/NETWORK-CARD/
